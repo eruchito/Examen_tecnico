@@ -1,4 +1,4 @@
-# Exmane_tecnico
+# Examen_tecnico
 # Descripción del Ejercicio Técnico
 
 Este ejercicio se desarrolló para resolver el problema de determinar si un número objetivo (`requiredSum`) puede formarse utilizando la suma de dos elementos diferentes de un array (`nums`).
